@@ -1,0 +1,14 @@
+Test 1: Add Book
+Expected: Book added.
+
+Test 2: Borrow available book
+Expected: Book borrowed.
+
+Test 3: Borrow same book again
+Expected: Book already borrowed.
+
+Test 4: Remove non-existing book
+Expected: Book not found.
+
+Test 5: Return book with wrong user
+Expected: Return failed.
